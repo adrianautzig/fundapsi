@@ -16,7 +16,7 @@ Caso queiram realizar a edição separadamente:
 
 1. Clonar o repositório principal do grupo.
 2. Realizar alterações e fazer "commit" delas.
-3. Sincornizar com o servidor.
+3. Sincronizar com o servidor.
 4. Fazer "push" para o repositório central, convergindo os trabalhos.
 
 
